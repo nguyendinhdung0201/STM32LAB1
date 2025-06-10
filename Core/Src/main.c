@@ -55,6 +55,7 @@ void SystemClock_Config(void);
 /* USER CODE BEGIN 0 */
 int test = 0;
 int test1 = 0;
+int test2 = 0;
 /* USER CODE END 0 */
 
 /**
